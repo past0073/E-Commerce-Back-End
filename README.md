@@ -1,10 +1,9 @@
 # E-Commerce-Back-End
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Descrption
 
-The back end to an E-Commerce webpage that uses Express, Sequelize, mySQL, and Postman.
+The back end to an E-Commerce webpage that uses Express and mySQL. This repository demonstrates the full CRUD operation. The video linked below demonstrates how each of these methods works using Postman.
 
 Link to walkthrough video: https://drive.google.com/file/d/1ZmnW53JOnnUCLOrxymyjqGHzFP-v-19m/view
 
